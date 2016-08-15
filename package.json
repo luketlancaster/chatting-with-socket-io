@@ -1,0 +1,15 @@
+{
+  "name": "chat-example",
+  "version": "0.0.1",
+  "description": "real-time chat w/socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Lancaster <luketlancaster@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.8"
+  }
+}
